@@ -7,8 +7,10 @@ Welcome to our project repository!
 -Jake Erickson
 -Isaac Christensen!
 I'm a Senior at WSU anticipating graduation in December 2025. I love finding new shows to watch!
-- Jaxson Deppen Hi my name is Jaxson Deppen I like woodworking, fishing, and RC Cars
--
+- Jaxson Deppen 
+Hi my name is Jaxson Deppen I like woodworking, fishing, and RC Cars
+- Jonathan Sindorf
+  Hello, I am Jonathan Sindorf, I am 28 years old and am from Alaska. I use git just about daily, so if you have any questions I can probably help!
 -
 -
 -
