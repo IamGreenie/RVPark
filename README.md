@@ -4,7 +4,7 @@ Welome to our project repository!
 
 ## Team Members
 
--
+-Jake Erickson
 -
 -
 -
