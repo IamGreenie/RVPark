@@ -9,7 +9,6 @@ Welome to our project repository!
 -
 - Jake Erickson
 -
--
--
+- Hi! My name is Arla Contreras, and I like listening to music and building playlists!
 -
 -
