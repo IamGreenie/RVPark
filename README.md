@@ -5,6 +5,7 @@ Welcome to our project repository!
 ## Team Members
 
 -Jake Erickson
+    Hello! I'm Jake Erickson, I'm excited to work with everyone. My favorite hobby is painting miniatures.
 -Isaac Christensen!
 I'm a Senior at WSU anticipating graduation in December 2025. I love finding new shows to watch!
 - Jaxson Deppen 
@@ -15,6 +16,4 @@ Hi my name is Jaxson Deppen I like woodworking, fishing, and RC Cars
 - Hi! My name is Arla Contreras, and I like listening to music and building playlists!
 - Matthew Roundy
 I'm Matt, and I'm looking forward to working with everybody in CS 3750!
--
--
--
+
