@@ -17,3 +17,6 @@ Hi my name is Jaxson Deppen I like woodworking, fishing, and RC Cars
 - Matthew Roundy
 I'm Matt, and I'm looking forward to working with everybody in CS 3750!
 
+
+- Muhammad Qizrullah
+I will be an excellent help to everyone on the team
