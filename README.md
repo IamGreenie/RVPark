@@ -6,6 +6,7 @@ Welcome to our project repository!
 
 -Jake Erickson
 Hello! I'm Jake Erickson, I'm excited to work with everyone. My favorite hobby is painting miniatures.
+
 -Isaac Christensen!
 I'm a Senior at WSU anticipating graduation in December 2025. I love finding new shows to watch!
 - Jaxson Deppen 
