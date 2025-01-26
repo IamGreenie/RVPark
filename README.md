@@ -19,4 +19,4 @@ I'm Matt, and I'm looking forward to working with everybody in CS 3750!
 
 
 - Muhammad Qizrullah
-I will be an excellent help to everyone on the team
+I will be an excellent help to everyone on the team. Looking forward to the collaboration.
