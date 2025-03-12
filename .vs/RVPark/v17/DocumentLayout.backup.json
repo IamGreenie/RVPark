@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|c:\\users\\jsindorf\\source\\repos\\rvpark\\rvpark\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|solutionrelative:rvpark\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|c:\\users\\jsindorf\\source\\repos\\rvpark\\rvpark\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|solutionrelative:rvpark\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|c:\\users\\jsindorf\\source\\repos\\rvpark\\rvpark\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|solutionrelative:rvpark\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|c:\\users\\jsindorf\\source\\repos\\rvpark\\rvpark\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|solutionrelative:rvpark\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|c:\\users\\jsindorf\\source\\repos\\rvpark\\rvpark\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|solutionrelative:rvpark\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|c:\\users\\jsindorf\\source\\repos\\rvpark\\rvpark\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|solutionrelative:rvpark\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|c:\\users\\jsindorf\\source\\repos\\rvpark\\rvpark\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|solutionrelative:rvpark\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|c:\\users\\jsindorf\\source\\repos\\rvpark\\rvpark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|solutionrelative:rvpark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056D9D4F-7885-44E8-8210-D8B2923D57AA}|Infrastructure\\Infrastructure.csproj|c:\\users\\jsindorf\\source\\repos\\rvpark\\infrastructure\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056D9D4F-7885-44E8-8210-D8B2923D57AA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056D9D4F-7885-44E8-8210-D8B2923D57AA}|Infrastructure\\Infrastructure.csproj|c:\\users\\jsindorf\\source\\repos\\rvpark\\infrastructure\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056D9D4F-7885-44E8-8210-D8B2923D57AA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056D9D4F-7885-44E8-8210-D8B2923D57AA}|Infrastructure\\Infrastructure.csproj|c:\\users\\jsindorf\\source\\repos\\rvpark\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056D9D4F-7885-44E8-8210-D8B2923D57AA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056D9D4F-7885-44E8-8210-D8B2923D57AA}|Infrastructure\\Infrastructure.csproj|c:\\users\\jsindorf\\source\\repos\\rvpark\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{056D9D4F-7885-44E8-8210-D8B2923D57AA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|c:\\users\\jsindorf\\source\\repos\\rvpark\\rvpark\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCAD85EC-E454-4C45-9D6B-B79DCAEE70E1}|RVPark\\RVPark.csproj|solutionrelative:rvpark\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 104,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RVPark\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RVPark\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T13:09:35.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RVPark\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RVPark\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:09:37.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "RVPark\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "RVPark\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:09:13.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RVPark\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "RVPark\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T13:07:54.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "RVPark\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "RVPark\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:06:34.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "RVPark\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\Error.cshtml",
+              "RelativeToolTip": "RVPark\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T13:06:21.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\Infrastructure\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\Infrastructure\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:03:32.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\Infrastructure\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\Infrastructure\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:03:16.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:03:00.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Program.cs",
+              "RelativeDocumentMoniker": "RVPark\\Program.cs",
+              "ToolTip": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Program.cs",
+              "RelativeToolTip": "RVPark\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:02:40.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RVPark\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "RVPark\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T13:02:23.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T12:59:16.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\appsettings.json",
+              "RelativeDocumentMoniker": "RVPark\\appsettings.json",
+              "ToolTip": "C:\\Users\\jsindorf\\source\\repos\\RVPark\\RVPark\\appsettings.json",
+              "RelativeToolTip": "RVPark\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T12:54:36.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
